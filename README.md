@@ -1,2 +1,2 @@
 # Drum-game
-Drum Setup built using Javascrit
+Drum Setup built using Javascript
